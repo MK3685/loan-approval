@@ -1,5 +1,7 @@
 # Loan Approval Prediction App 🏦✅  
 
+![Loan Approval](https://i.pinimg.com/736x/a6/8b/79/a68b790991934255bb0790598c45abde.jpg)  
+
 ## 🚀 About the Project  
 This is a **Machine Learning-powered Loan Approval Prediction App** that predicts whether a loan application will be approved based on various factors. The project is built using **Python, Scikit-learn, Pandas, and NumPy** and deployed on **Render**.  
 
@@ -64,7 +66,7 @@ We tested multiple models:
 
 ### 🔹 Model Evaluation  
 - Used **ROC-AUC Score** and **Confusion Matrix**  
-- **Final Accuracy:** `"${:,.02f}".format(accuracy_score)`  
+- **Final Accuracy:** *82%*  
 - Feature importance extracted to understand key factors in approval  
 
 📂 **Model Saved as:** `loan_model.pkl`  
